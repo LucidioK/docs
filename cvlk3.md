@@ -137,20 +137,6 @@ Demonstrated turnkey Software Development Manager, working daily on complex prob
 * https://www.starbuckscardb2b.com/s/
 * https://www.starbucks.com/gift
 
-### Application Developer Lead Starbucks 03/2018 11/2018
-* Transition to Azure.
-* Became (in weeks) the go-to person for CI/CD, Service Bus, Cosmos DB, telemetry, high scalability multi-threaded C#.
-* The development and CI/CD model allowed Starbucks to provide B2B and gifting services with only ten engineers.
-* https://www.starbuckscardb2b.com/s/
-* https://www.starbucks.com/gift
-
-### Application Developer Lead Starbucks Coffee 03/2018 11/2018
-* Transition to Azure.
-* Became (in weeks) the go-to person for CI/CD, Service Bus, Cosmos DB, telemetry, high scalability multi-threaded C#.
-* The development and CI/CD model allowed Starbucks to provide B2B and gifting services with only ten engineers.
-* https://www.starbuckscardb2b.com/s/
-* https://www.starbucks.com/gift
-
 ### Senior Consultant Avanade 11/2017 02/2018
 * On consulting for Motorola, unblocked development of Windows Response App with separation of concerns so it could be developed with multiple engineers.
 * On consulting for Puget Sound Energy (PSE), cloud-transition with micro services in AWS (Lambda + ALB + EC2), Docker and Cassandra.
